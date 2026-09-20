@@ -18,3 +18,4 @@ Understanding macroeconomic market shocks and energy price volatility is critica
 3. **Advanced SQL Analytics:** Advanced queries utilizing Window Functions and CTEs calculate rolling averages and standard deviations (volatility metrics) for each commodity.
 4. **Visualization:** Matplotlib/Seaborn generate static EDA distributions, while Power BI is used to build an interactive volatility dashboard.
 
+<img width="1377" height="767" alt="Screenshot 2026-09-20 174926" src="https://github.com/user-attachments/assets/90a36faa-623a-4bfb-8a1e-3ca70e992661" />
