@@ -1,0 +1,254 @@
+commodity_name,report_month,avg_monthly_price,monthly_volatility,price_spread,mom_growth_pct
+"Brent Crude",2026-09-01,109.78,10.83,34.78,20.53
+"Brent Crude",2026-08-01,91.08,2.82,10.45,8.74
+"Brent Crude",2026-07-01,83.76,10.61,36.79,-1.92
+"Brent Crude",2026-06-01,85.40,10.8,31.53,-20.29
+"Brent Crude",2026-05-01,107.14,7.01,25.38,-8.65
+"Brent Crude",2026-04-01,117.29,8.53,39.58,13.73
+"Brent Crude",2026-03-01,103.13,13.76,49.45,45.48
+"Brent Crude",2026-02-01,70.89,1.17,5.45,6.44
+"Brent Crude",2026-01-01,66.60,3.05,11.17,6.49
+"Brent Crude",2025-12-01,62.54,1.26,4.49,-1.97
+"Brent Crude",2025-11-01,63.80,0.94,3.91,-1.15
+"Brent Crude",2025-10-01,64.54,2.15,6.71,-5.07
+"Brent Crude",2025-09-01,67.99,1.46,6.23,0.18
+"Brent Crude",2025-08-01,67.87,1.03,4.30,-4.46
+"Brent Crude",2025-07-01,71.04,1.46,6.35,-0.56
+"Brent Crude",2025-06-01,71.44,4.49,13.82,10.85
+"Brent Crude",2025-05-01,64.45,1.77,6.62,-5.40
+"Brent Crude",2025-04-01,68.13,3.68,14.41,-6.32
+"Brent Crude",2025-03-01,72.73,1.56,6.41,-3.59
+"Brent Crude",2025-02-01,75.44,1.11,4.54,-4.83
+"Brent Crude",2025-01-01,79.27,2.31,7.34,7.35
+"Brent Crude",2024-12-01,73.84,0.68,2.77,-0.89
+"Brent Crude",2024-11-01,74.50,0.62,2.19,NULL
+"Los Angeles Reformulated RBOB Regular Gasoline Spot Price (Dollars per Gallon)",2026-09-01,3.91,0.13,0.48,11.08
+"Los Angeles Reformulated RBOB Regular Gasoline Spot Price (Dollars per Gallon)",2026-08-01,3.52,0.29,0.99,0.86
+"Los Angeles Reformulated RBOB Regular Gasoline Spot Price (Dollars per Gallon)",2026-07-01,3.49,0.17,0.57,4.80
+"Los Angeles Reformulated RBOB Regular Gasoline Spot Price (Dollars per Gallon)",2026-06-01,3.33,0.14,0.51,-14.83
+"Los Angeles Reformulated RBOB Regular Gasoline Spot Price (Dollars per Gallon)",2026-05-01,3.91,0.22,0.80,3.71
+"Los Angeles Reformulated RBOB Regular Gasoline Spot Price (Dollars per Gallon)",2026-04-01,3.77,0.32,0.97,12.87
+"Los Angeles Reformulated RBOB Regular Gasoline Spot Price (Dollars per Gallon)",2026-03-01,3.34,0.34,1.30,36.33
+"Los Angeles Reformulated RBOB Regular Gasoline Spot Price (Dollars per Gallon)",2026-02-01,2.45,0.13,0.46,7.93
+"Los Angeles Reformulated RBOB Regular Gasoline Spot Price (Dollars per Gallon)",2026-01-01,2.27,0.13,0.47,26.82
+"Los Angeles Reformulated RBOB Regular Gasoline Spot Price (Dollars per Gallon)",2025-12-01,1.79,0.08,0.33,-23.50
+"Los Angeles Reformulated RBOB Regular Gasoline Spot Price (Dollars per Gallon)",2025-11-01,2.34,0.26,0.85,-0.43
+"Los Angeles Reformulated RBOB Regular Gasoline Spot Price (Dollars per Gallon)",2025-10-01,2.35,0.15,0.66,-6.75
+"Los Angeles Reformulated RBOB Regular Gasoline Spot Price (Dollars per Gallon)",2025-09-01,2.52,0.07,0.25,5.88
+"Los Angeles Reformulated RBOB Regular Gasoline Spot Price (Dollars per Gallon)",2025-08-01,2.38,0.16,0.46,6.25
+"Los Angeles Reformulated RBOB Regular Gasoline Spot Price (Dollars per Gallon)",2025-07-01,2.24,0.07,0.26,-2.18
+"Los Angeles Reformulated RBOB Regular Gasoline Spot Price (Dollars per Gallon)",2025-06-01,2.29,0.07,0.24,-6.53
+"Los Angeles Reformulated RBOB Regular Gasoline Spot Price (Dollars per Gallon)",2025-05-01,2.45,0.14,0.46,0.82
+"Los Angeles Reformulated RBOB Regular Gasoline Spot Price (Dollars per Gallon)",2025-04-01,2.43,0.17,0.65,3.40
+"Los Angeles Reformulated RBOB Regular Gasoline Spot Price (Dollars per Gallon)",2025-03-01,2.35,0.21,0.86,-4.47
+"Los Angeles Reformulated RBOB Regular Gasoline Spot Price (Dollars per Gallon)",2025-02-01,2.46,0.2,0.68,11.31
+"Los Angeles Reformulated RBOB Regular Gasoline Spot Price (Dollars per Gallon)",2025-01-01,2.21,0.1,0.35,8.87
+"Los Angeles Reformulated RBOB Regular Gasoline Spot Price (Dollars per Gallon)",2024-12-01,2.03,0.09,0.29,-5.58
+"Los Angeles Reformulated RBOB Regular Gasoline Spot Price (Dollars per Gallon)",2024-11-01,2.15,0.04,0.11,NULL
+"Los Angeles, CA Ultra-Low Sulfur CARB Diesel Spot Price (Dollars per Gallon)",2026-09-01,5.23,0.14,0.47,18.86
+"Los Angeles, CA Ultra-Low Sulfur CARB Diesel Spot Price (Dollars per Gallon)",2026-08-01,4.40,0.27,1.09,9.18
+"Los Angeles, CA Ultra-Low Sulfur CARB Diesel Spot Price (Dollars per Gallon)",2026-07-01,4.03,0.39,1.27,13.20
+"Los Angeles, CA Ultra-Low Sulfur CARB Diesel Spot Price (Dollars per Gallon)",2026-06-01,3.56,0.34,1.10,-14.83
+"Los Angeles, CA Ultra-Low Sulfur CARB Diesel Spot Price (Dollars per Gallon)",2026-05-01,4.18,0.12,0.50,-4.35
+"Los Angeles, CA Ultra-Low Sulfur CARB Diesel Spot Price (Dollars per Gallon)",2026-04-01,4.37,0.42,1.68,9.25
+"Los Angeles, CA Ultra-Low Sulfur CARB Diesel Spot Price (Dollars per Gallon)",2026-03-01,4.00,0.69,2.44,65.98
+"Los Angeles, CA Ultra-Low Sulfur CARB Diesel Spot Price (Dollars per Gallon)",2026-02-01,2.41,0.16,0.46,10.55
+"Los Angeles, CA Ultra-Low Sulfur CARB Diesel Spot Price (Dollars per Gallon)",2026-01-01,2.18,0.1,0.37,1.40
+"Los Angeles, CA Ultra-Low Sulfur CARB Diesel Spot Price (Dollars per Gallon)",2025-12-01,2.15,0.09,0.31,-16.02
+"Los Angeles, CA Ultra-Low Sulfur CARB Diesel Spot Price (Dollars per Gallon)",2025-11-01,2.56,0.14,0.44,5.79
+"Los Angeles, CA Ultra-Low Sulfur CARB Diesel Spot Price (Dollars per Gallon)",2025-10-01,2.42,0.09,0.29,-3.97
+"Los Angeles, CA Ultra-Low Sulfur CARB Diesel Spot Price (Dollars per Gallon)",2025-09-01,2.52,0.06,0.21,7.23
+"Los Angeles, CA Ultra-Low Sulfur CARB Diesel Spot Price (Dollars per Gallon)",2025-08-01,2.35,0.07,0.20,-9.27
+"Los Angeles, CA Ultra-Low Sulfur CARB Diesel Spot Price (Dollars per Gallon)",2025-07-01,2.59,0.07,0.25,9.75
+"Los Angeles, CA Ultra-Low Sulfur CARB Diesel Spot Price (Dollars per Gallon)",2025-06-01,2.36,0.17,0.49,11.32
+"Los Angeles, CA Ultra-Low Sulfur CARB Diesel Spot Price (Dollars per Gallon)",2025-05-01,2.12,0.08,0.30,-4.07
+"Los Angeles, CA Ultra-Low Sulfur CARB Diesel Spot Price (Dollars per Gallon)",2025-04-01,2.21,0.08,0.40,-0.90
+"Los Angeles, CA Ultra-Low Sulfur CARB Diesel Spot Price (Dollars per Gallon)",2025-03-01,2.23,0.1,0.31,-9.72
+"Los Angeles, CA Ultra-Low Sulfur CARB Diesel Spot Price (Dollars per Gallon)",2025-02-01,2.47,0.06,0.19,-2.37
+"Los Angeles, CA Ultra-Low Sulfur CARB Diesel Spot Price (Dollars per Gallon)",2025-01-01,2.53,0.08,0.25,15.00
+"Los Angeles, CA Ultra-Low Sulfur CARB Diesel Spot Price (Dollars per Gallon)",2024-12-01,2.20,0.06,0.27,-3.08
+"Los Angeles, CA Ultra-Low Sulfur CARB Diesel Spot Price (Dollars per Gallon)",2024-11-01,2.27,0.03,0.09,NULL
+"Mont Belvieu, TX Propane Spot Price FOB (Dollars per Gallon)",2026-09-01,0.82,0.05,0.14,18.84
+"Mont Belvieu, TX Propane Spot Price FOB (Dollars per Gallon)",2026-08-01,0.69,0.03,0.12,-1.43
+"Mont Belvieu, TX Propane Spot Price FOB (Dollars per Gallon)",2026-07-01,0.70,0.03,0.10,-7.89
+"Mont Belvieu, TX Propane Spot Price FOB (Dollars per Gallon)",2026-06-01,0.76,0.06,0.19,-8.43
+"Mont Belvieu, TX Propane Spot Price FOB (Dollars per Gallon)",2026-05-01,0.83,0.03,0.14,7.79
+"Mont Belvieu, TX Propane Spot Price FOB (Dollars per Gallon)",2026-04-01,0.77,0.05,0.15,5.48
+"Mont Belvieu, TX Propane Spot Price FOB (Dollars per Gallon)",2026-03-01,0.73,0.04,0.17,17.74
+"Mont Belvieu, TX Propane Spot Price FOB (Dollars per Gallon)",2026-02-01,0.62,0.02,0.07,0.00
+"Mont Belvieu, TX Propane Spot Price FOB (Dollars per Gallon)",2026-01-01,0.62,0.03,0.08,-4.62
+"Mont Belvieu, TX Propane Spot Price FOB (Dollars per Gallon)",2025-12-01,0.65,0.03,0.08,6.56
+"Mont Belvieu, TX Propane Spot Price FOB (Dollars per Gallon)",2025-11-01,0.61,0.02,0.07,-4.69
+"Mont Belvieu, TX Propane Spot Price FOB (Dollars per Gallon)",2025-10-01,0.64,0.03,0.09,-7.25
+"Mont Belvieu, TX Propane Spot Price FOB (Dollars per Gallon)",2025-09-01,0.69,0.01,0.04,2.99
+"Mont Belvieu, TX Propane Spot Price FOB (Dollars per Gallon)",2025-08-01,0.67,0.01,0.05,-5.63
+"Mont Belvieu, TX Propane Spot Price FOB (Dollars per Gallon)",2025-07-01,0.71,0.02,0.07,-6.58
+"Mont Belvieu, TX Propane Spot Price FOB (Dollars per Gallon)",2025-06-01,0.76,0.04,0.10,1.33
+"Mont Belvieu, TX Propane Spot Price FOB (Dollars per Gallon)",2025-05-01,0.75,0.03,0.12,-11.76
+"Mont Belvieu, TX Propane Spot Price FOB (Dollars per Gallon)",2025-04-01,0.85,0.07,0.26,-2.30
+"Mont Belvieu, TX Propane Spot Price FOB (Dollars per Gallon)",2025-03-01,0.87,0.03,0.08,-6.45
+"Mont Belvieu, TX Propane Spot Price FOB (Dollars per Gallon)",2025-02-01,0.93,0.02,0.09,3.33
+"Mont Belvieu, TX Propane Spot Price FOB (Dollars per Gallon)",2025-01-01,0.90,0.04,0.13,16.88
+"Mont Belvieu, TX Propane Spot Price FOB (Dollars per Gallon)",2024-12-01,0.77,0.02,0.07,-4.94
+"Mont Belvieu, TX Propane Spot Price FOB (Dollars per Gallon)",2024-11-01,0.81,0.02,0.05,NULL
+"New York Harbor Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2026-09-01,3.32,0.12,0.40,3.43
+"New York Harbor Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2026-08-01,3.21,0.2,0.71,-0.31
+"New York Harbor Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2026-07-01,3.22,0.18,0.56,5.92
+"New York Harbor Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2026-06-01,3.04,0.11,0.40,-14.61
+"New York Harbor Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2026-05-01,3.56,0.19,0.60,8.54
+"New York Harbor Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2026-04-01,3.28,0.25,0.84,11.19
+"New York Harbor Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2026-03-01,2.95,0.28,1.01,41.83
+"New York Harbor Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2026-02-01,2.08,0.1,0.31,0.97
+"New York Harbor Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2026-01-01,2.06,0.06,0.23,16.38
+"New York Harbor Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2025-12-01,1.77,0.05,0.19,-8.76
+"New York Harbor Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2025-11-01,1.94,0.04,0.16,2.65
+"New York Harbor Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2025-10-01,1.89,0.05,0.17,-5.97
+"New York Harbor Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2025-09-01,2.01,0.02,0.08,-5.63
+"New York Harbor Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2025-08-01,2.13,0.05,0.18,-1.84
+"New York Harbor Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2025-07-01,2.17,0.05,0.20,3.33
+"New York Harbor Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2025-06-01,2.10,0.14,0.44,6.60
+"New York Harbor Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2025-05-01,1.97,0.06,0.21,3.14
+"New York Harbor Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2025-04-01,1.91,0.09,0.36,-4.02
+"New York Harbor Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2025-03-01,1.99,0.05,0.21,-5.69
+"New York Harbor Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2025-02-01,2.11,0.1,0.32,-1.86
+"New York Harbor Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2025-01-01,2.15,0.04,0.18,5.39
+"New York Harbor Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2024-12-01,2.04,0.03,0.12,-3.77
+"New York Harbor Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2024-11-01,2.12,0.04,0.12,NULL
+"New York Harbor No. 2 Heating Oil Spot Price FOB (Dollars per Gallon)",2026-09-01,4.74,0.23,0.71,15.05
+"New York Harbor No. 2 Heating Oil Spot Price FOB (Dollars per Gallon)",2026-08-01,4.12,0.24,0.75,8.42
+"New York Harbor No. 2 Heating Oil Spot Price FOB (Dollars per Gallon)",2026-07-01,3.80,0.36,1.20,15.15
+"New York Harbor No. 2 Heating Oil Spot Price FOB (Dollars per Gallon)",2026-06-01,3.30,0.22,0.74,-13.16
+"New York Harbor No. 2 Heating Oil Spot Price FOB (Dollars per Gallon)",2026-05-01,3.80,0.17,0.63,-1.04
+"New York Harbor No. 2 Heating Oil Spot Price FOB (Dollars per Gallon)",2026-04-01,3.84,0.25,1.02,0.79
+"New York Harbor No. 2 Heating Oil Spot Price FOB (Dollars per Gallon)",2026-03-01,3.81,0.46,1.71,62.13
+"New York Harbor No. 2 Heating Oil Spot Price FOB (Dollars per Gallon)",2026-02-01,2.35,0.17,0.49,11.37
+"New York Harbor No. 2 Heating Oil Spot Price FOB (Dollars per Gallon)",2026-01-01,2.11,0.11,0.39,0.00
+"New York Harbor No. 2 Heating Oil Spot Price FOB (Dollars per Gallon)",2025-12-01,2.11,0.08,0.28,-11.34
+"New York Harbor No. 2 Heating Oil Spot Price FOB (Dollars per Gallon)",2025-11-01,2.38,0.09,0.37,8.68
+"New York Harbor No. 2 Heating Oil Spot Price FOB (Dollars per Gallon)",2025-10-01,2.19,0.09,0.29,-2.23
+"New York Harbor No. 2 Heating Oil Spot Price FOB (Dollars per Gallon)",2025-09-01,2.24,0.04,0.15,2.75
+"New York Harbor No. 2 Heating Oil Spot Price FOB (Dollars per Gallon)",2025-08-01,2.18,0.03,0.12,-6.44
+"New York Harbor No. 2 Heating Oil Spot Price FOB (Dollars per Gallon)",2025-07-01,2.33,0.04,0.17,6.88
+"New York Harbor No. 2 Heating Oil Spot Price FOB (Dollars per Gallon)",2025-06-01,2.18,0.15,0.49,9.55
+"New York Harbor No. 2 Heating Oil Spot Price FOB (Dollars per Gallon)",2025-05-01,1.99,0.06,0.23,-1.97
+"New York Harbor No. 2 Heating Oil Spot Price FOB (Dollars per Gallon)",2025-04-01,2.03,0.07,0.28,-5.58
+"New York Harbor No. 2 Heating Oil Spot Price FOB (Dollars per Gallon)",2025-03-01,2.15,0.04,0.15,-8.51
+"New York Harbor No. 2 Heating Oil Spot Price FOB (Dollars per Gallon)",2025-02-01,2.35,0.06,0.22,-2.49
+"New York Harbor No. 2 Heating Oil Spot Price FOB (Dollars per Gallon)",2025-01-01,2.41,0.09,0.27,13.15
+"New York Harbor No. 2 Heating Oil Spot Price FOB (Dollars per Gallon)",2024-12-01,2.13,0.04,0.19,-0.47
+"New York Harbor No. 2 Heating Oil Spot Price FOB (Dollars per Gallon)",2024-11-01,2.14,0.02,0.08,NULL
+"New York Harbor Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2026-09-01,4.87,0.26,0.79,14.59
+"New York Harbor Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2026-08-01,4.25,0.24,0.81,8.70
+"New York Harbor Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2026-07-01,3.91,0.37,1.24,15.00
+"New York Harbor Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2026-06-01,3.40,0.22,0.76,-14.36
+"New York Harbor Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2026-05-01,3.97,0.19,0.76,-0.50
+"New York Harbor Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2026-04-01,3.99,0.25,1.03,0.76
+"New York Harbor Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2026-03-01,3.96,0.46,1.71,58.40
+"New York Harbor Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2026-02-01,2.50,0.17,0.49,10.62
+"New York Harbor Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2026-01-01,2.26,0.11,0.39,0.00
+"New York Harbor Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2025-12-01,2.26,0.09,0.28,-10.32
+"New York Harbor Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2025-11-01,2.52,0.09,0.36,7.69
+"New York Harbor Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2025-10-01,2.34,0.09,0.28,-2.09
+"New York Harbor Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2025-09-01,2.39,0.04,0.15,2.58
+"New York Harbor Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2025-08-01,2.33,0.03,0.12,-4.90
+"New York Harbor Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2025-07-01,2.45,0.05,0.20,7.46
+"New York Harbor Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2025-06-01,2.28,0.16,0.50,9.62
+"New York Harbor Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2025-05-01,2.08,0.07,0.23,-2.35
+"New York Harbor Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2025-04-01,2.13,0.07,0.28,-5.33
+"New York Harbor Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2025-03-01,2.25,0.04,0.15,-8.91
+"New York Harbor Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2025-02-01,2.47,0.08,0.36,-0.80
+"New York Harbor Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2025-01-01,2.49,0.09,0.28,13.18
+"New York Harbor Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2024-12-01,2.20,0.05,0.20,-0.90
+"New York Harbor Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2024-11-01,2.22,0.03,0.09,NULL
+"U.S. Gulf Coast Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2026-09-01,3.57,0.16,0.53,7.53
+"U.S. Gulf Coast Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2026-08-01,3.32,0.26,0.96,1.22
+"U.S. Gulf Coast Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2026-07-01,3.28,0.19,0.58,8.97
+"U.S. Gulf Coast Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2026-06-01,3.01,0.07,0.28,-13.75
+"U.S. Gulf Coast Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2026-05-01,3.49,0.19,0.68,7.72
+"U.S. Gulf Coast Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2026-04-01,3.24,0.27,0.90,12.89
+"U.S. Gulf Coast Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2026-03-01,2.87,0.35,1.12,44.95
+"U.S. Gulf Coast Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2026-02-01,1.98,0.19,0.50,-3.41
+"U.S. Gulf Coast Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2026-01-01,2.05,0.07,0.22,16.48
+"U.S. Gulf Coast Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2025-12-01,1.76,0.06,0.21,-9.28
+"U.S. Gulf Coast Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2025-11-01,1.94,0.08,0.27,0.52
+"U.S. Gulf Coast Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2025-10-01,1.93,0.05,0.16,-7.66
+"U.S. Gulf Coast Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2025-09-01,2.09,0.05,0.20,0.00
+"U.S. Gulf Coast Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2025-08-01,2.09,0.05,0.20,-0.48
+"U.S. Gulf Coast Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2025-07-01,2.10,0.03,0.13,0.96
+"U.S. Gulf Coast Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2025-06-01,2.08,0.09,0.29,2.46
+"U.S. Gulf Coast Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2025-05-01,2.03,0.06,0.18,1.50
+"U.S. Gulf Coast Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2025-04-01,2.00,0.09,0.36,-2.44
+"U.S. Gulf Coast Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2025-03-01,2.05,0.08,0.28,-0.97
+"U.S. Gulf Coast Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2025-02-01,2.07,0.05,0.18,-0.48
+"U.S. Gulf Coast Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2025-01-01,2.08,0.05,0.18,7.22
+"U.S. Gulf Coast Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2024-12-01,1.94,0.05,0.17,-0.51
+"U.S. Gulf Coast Conventional Gasoline Regular Spot Price FOB (Dollars per Gallon)",2024-11-01,1.95,0.04,0.12,NULL
+"U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB (Dollars per Gallon)",2026-09-01,4.33,0.25,0.69,16.40
+"U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB (Dollars per Gallon)",2026-08-01,3.72,0.19,0.70,9.41
+"U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB (Dollars per Gallon)",2026-07-01,3.40,0.37,1.17,11.84
+"U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB (Dollars per Gallon)",2026-06-01,3.04,0.25,0.84,-22.84
+"U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB (Dollars per Gallon)",2026-05-01,3.94,0.34,1.09,0.25
+"U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB (Dollars per Gallon)",2026-04-01,3.93,0.22,0.85,6.22
+"U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB (Dollars per Gallon)",2026-03-01,3.70,0.46,1.71,63.72
+"U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB (Dollars per Gallon)",2026-02-01,2.26,0.15,0.44,11.33
+"U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB (Dollars per Gallon)",2026-01-01,2.03,0.13,0.46,3.05
+"U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB (Dollars per Gallon)",2025-12-01,1.97,0.07,0.25,-12.83
+"U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB (Dollars per Gallon)",2025-11-01,2.26,0.13,0.45,4.63
+"U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB (Dollars per Gallon)",2025-10-01,2.16,0.09,0.32,3.35
+"U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB (Dollars per Gallon)",2025-09-01,2.09,0.04,0.15,3.47
+"U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB (Dollars per Gallon)",2025-08-01,2.02,0.03,0.12,-10.22
+"U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB (Dollars per Gallon)",2025-07-01,2.25,0.05,0.17,7.66
+"U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB (Dollars per Gallon)",2025-06-01,2.09,0.14,0.45,8.29
+"U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB (Dollars per Gallon)",2025-05-01,1.93,0.06,0.23,-2.53
+"U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB (Dollars per Gallon)",2025-04-01,1.98,0.08,0.29,-4.35
+"U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB (Dollars per Gallon)",2025-03-01,2.07,0.04,0.14,-8.41
+"U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB (Dollars per Gallon)",2025-02-01,2.26,0.07,0.24,-3.83
+"U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB (Dollars per Gallon)",2025-01-01,2.35,0.06,0.19,11.90
+"U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB (Dollars per Gallon)",2024-12-01,2.10,0.06,0.25,1.45
+"U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB (Dollars per Gallon)",2024-11-01,2.07,0.02,0.06,NULL
+"U.S. Gulf Coast Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2026-09-01,4.83,0.21,0.65,14.73
+"U.S. Gulf Coast Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2026-08-01,4.21,0.25,0.80,8.79
+"U.S. Gulf Coast Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2026-07-01,3.87,0.38,1.19,15.18
+"U.S. Gulf Coast Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2026-06-01,3.36,0.21,0.75,-12.95
+"U.S. Gulf Coast Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2026-05-01,3.86,0.16,0.63,-1.53
+"U.S. Gulf Coast Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2026-04-01,3.92,0.3,1.16,2.35
+"U.S. Gulf Coast Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2026-03-01,3.83,0.48,1.77,66.52
+"U.S. Gulf Coast Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2026-02-01,2.30,0.19,0.53,9.00
+"U.S. Gulf Coast Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2026-01-01,2.11,0.1,0.32,1.93
+"U.S. Gulf Coast Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2025-12-01,2.07,0.08,0.25,-12.66
+"U.S. Gulf Coast Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2025-11-01,2.37,0.1,0.40,7.24
+"U.S. Gulf Coast Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2025-10-01,2.21,0.08,0.24,-3.07
+"U.S. Gulf Coast Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2025-09-01,2.28,0.04,0.16,3.64
+"U.S. Gulf Coast Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2025-08-01,2.20,0.03,0.12,-6.78
+"U.S. Gulf Coast Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2025-07-01,2.36,0.04,0.16,6.79
+"U.S. Gulf Coast Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2025-06-01,2.21,0.15,0.49,9.41
+"U.S. Gulf Coast Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2025-05-01,2.02,0.06,0.22,-2.42
+"U.S. Gulf Coast Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2025-04-01,2.07,0.07,0.28,-5.05
+"U.S. Gulf Coast Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2025-03-01,2.18,0.05,0.17,-7.63
+"U.S. Gulf Coast Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2025-02-01,2.36,0.05,0.21,-1.67
+"U.S. Gulf Coast Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2025-01-01,2.40,0.08,0.25,12.15
+"U.S. Gulf Coast Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2024-12-01,2.14,0.05,0.21,-0.93
+"U.S. Gulf Coast Ultra-Low Sulfur No 2 Diesel Spot Price (Dollars per Gallon)",2024-11-01,2.16,0.03,0.10,NULL
+"WTI Crude",2026-09-01,97.46,5.38,15.54,16.16
+"WTI Crude",2026-08-01,83.90,3.3,12.97,4.28
+"WTI Crude",2026-07-01,80.46,6.99,23.48,-5.13
+"WTI Crude",2026-06-01,84.81,10.11,29.46,-16.96
+"WTI Crude",2026-05-01,102.13,6.02,21.09,1.80
+"WTI Crude",2026-04-01,100.32,7.74,28.67,9.78
+"WTI Crude",2026-03-01,91.38,9.07,33.56,41.65
+"WTI Crude",2026-02-01,64.51,1.54,5.36,7.45
+"WTI Crude",2026-01-01,60.04,2.29,8.76,3.57
+"WTI Crude",2025-12-01,57.97,1.23,4.79,-3.48
+"WTI Crude",2025-11-01,60.06,1.03,3.54,-1.36
+"WTI Crude",2025-10-01,60.89,1.62,5.08,-4.80
+"WTI Crude",2025-09-01,63.96,1.14,4.28,-1.39
+"WTI Crude",2025-08-01,64.86,1.18,5.01,-5.16
+"WTI Crude",2025-07-01,68.39,1.31,5.04,0.32
+"WTI Crude",2025-06-01,68.17,4.15,12.62,9.65
+"WTI Crude",2025-05-01,62.17,1.71,6.54,-2.16
+"WTI Crude",2025-04-01,63.54,3.2,12.57,-6.89
+"WTI Crude",2025-03-01,68.24,1.44,5.56,-4.60
+"WTI Crude",2025-02-01,71.53,1.32,4.80,-5.56
+"WTI Crude",2025-01-01,75.74,2.37,7.89,8.01
+"WTI Crude",2024-12-01,70.12,1.14,4.09,0.76
+"WTI Crude",2024-11-01,69.59,0.92,3.42,NULL
